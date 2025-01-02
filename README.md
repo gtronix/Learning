@@ -1,5 +1,9 @@
-# learning
+# 📚 Learning
+[![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@gtronix&color=595aff&logo=mastodon)](https://defcon.social/@gtronix)
+
 Logs of my journey to becoming a Database and Linux System Administrator.
+
+
 
 ## Skills
 

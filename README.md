@@ -11,7 +11,7 @@ Logs of my journey to becoming a Database and Linux System Administrator.
 
 |Resource|Progress|
 |---|---|
-|Certificat: [Inspiring and Motivating Individuals](https://coursera.org/share/00173d42810cc6ca8fdc4bdce49bcfbf)|✅|
+|Certificat: [Inspiring and Motivating Individuals](https://coursera.org/share/00173d42810cc6ca8fdc4bdce49bcfbf)|![](https://geps.dev/progress/100)|
 
 
 ### IT Support

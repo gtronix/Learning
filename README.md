@@ -1,8 +1,7 @@
 # 📚 Learning
 [![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@gtronix&color=595aff&logo=mastodon)](https://defcon.social/@gtronix)
 
-Logs of my journey to becoming a Database and Linux System Administrator.
-
+Logs of my journey to becoming a Linux System and Database Administrator.
 
 
 ## Skills
@@ -36,19 +35,18 @@ Logs of my journey to becoming a Database and Linux System Administrator.
 
 |Resource|Progress|
 |---|---|
-|Certificat: [Google Cloud Database Engineer Specialization](https://www.coursera.org/specializations/google-cloud-database-engineer)|![](https://geps.dev/progress/80)|
+|Certificat: [Google Cloud Database Engineer Specialization](https://www.coursera.org/specializations/google-cloud-database-engineer)|![](https://geps.dev/progress/95)|
 
 
 ### Python
 
 |Resource|Progress|
 |---|---|
-|Excercises: [Python Exercices](https://www.w3schools.com/python/python_exercises.asp)|![](https://geps.dev/progress/25)|
-|Book: [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2)|![](https://geps.dev/progress/20)|
+|Book: [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2)|![](https://geps.dev/progress/25)|
 |Certificat: [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)|![](https://geps.dev/progress/0)|
 
 ### SQL
 
 |Resource|Progress|
 |---|---|
-|Book: [Practical SQL](https://nostarch.com/practical-sql-2nd-edition)|![](https://geps.dev/progress/10)|
+|Book: [Practical SQL](https://nostarch.com/practical-sql-2nd-edition)|![](https://geps.dev/progress/15)|

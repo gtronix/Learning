@@ -26,12 +26,12 @@ Logs of my journey to becoming a Linux System and Database Administrator.
 ### Database
 |Type|Resource|Progress|
 |---|---|---|
-|Certificat| [Google Cloud Database Engineer Specialization](https://www.coursera.org/specializations/google-cloud-database-engineer)|![](https://geps.dev/progress/95)|
+|Certificat| [Google Cloud Database Engineer Specialization](https://www.coursera.org/specializations/google-cloud-database-engineer)|![](https://geps.dev/progress/98)|
 
 ### Python
 |Type|Resource|Progress|
 |---|---|---|
-|Book| [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2)|![](https://geps.dev/progress/25)|
+|Book| [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2)|![](https://geps.dev/progress/30)|
 |Certificat| [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)|![](https://geps.dev/progress/0)|
 
 ### SQL

@@ -11,7 +11,7 @@ Logs of my journey to becoming a Linux System and Database Administrator.
 ### Python
 |Type|Resource|Progress|
 |---|---|---|
-||Certificat| [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)|![](https://geps.dev/progress/05)
+|Certificat| [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)|![](https://geps.dev/progress/05)|
 |Book| [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2)|![](https://geps.dev/progress/30)|
 
 ### Linux
